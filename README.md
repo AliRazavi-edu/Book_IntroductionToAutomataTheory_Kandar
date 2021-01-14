@@ -1,4 +1,7 @@
 # Book_IntroductionToAutomataTheory_Kandar
+
+[**Theory of Languages and Machines**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC)
+
 ## Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India
 
 
